@@ -1,0 +1,10 @@
+I am the capital of Canada.:Ottawa
+I am the capital of China.:Beijing
+I am the capital of Colombia:Bogotá
+I am the capital of Ireland:Dublin
+I am the capital of Peru:Lima
+I am the capital of Portugal:Lisbon
+I am the capital of Venezuela:Caracas
+I am the capital of Latvia:Riga
+I am the capital of Guyana:Georgetown
+I am the capital of Cyprus:Nicosia
